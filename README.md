@@ -62,8 +62,8 @@ Jupyter Notebook
 
 ### 📌 Projetos em Destaque
 
-- 🗄️ [MySql-Vasques](https://github.com/Diogovasques1995/MySql-Vasques)
-- 📊 [Analise-Dados-SQL](https://github.com/Diogovasques1995/Analise-Dados-SQL)
+- 🗄️ [Sql Server](https://github.com/Diogovasques1995/SQL)
+- 📊 [Tuning de Performance]([https://github.com/Diogovasques1995/Analise-Dados-SQL](https://github.com/Diogovasques1995/SQL-Tunning-Performance))
 ---
 
 ### 🌍 Vamos nos conectar?

@@ -1,16 +1,71 @@
-## Hi there 👋
+# Diogo Vasques
 
-<!--
-**Diogovasques1995/Diogovasques1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=600&lines=Diogo+Vasques)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🚀 Diogo Vasques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Analista de Dados Jr | DBA | Banco de dados, BI, Analise de dados
+
+---
+
+### ✨ Sobre mim
+
+Técnico em Eletrônica em Migração para área de dados
+
+- Banco de dados, Tunning Otmização
+- Analise de Dados, ETL, Normalização
+- Ferramentas de Dataviz, Power Bi, Looker Studio e Tableau
+
+💡 Minha missão: **Conseguir ingressar na área de dados**
+
+---
+
+### Experiencia em Dados
+
+Técnico Eletrônico | Indicadores, SQL Server e Power Bi
+Atuação na manutenção de dispositivos computadorizados, equipamentos de informática e placas eletrônicas, com apoio ao controle operacional por meio de indicadores, registros em banco de dados e dashboards.
+Principais atividades:
+Criação de dashboards em Power BI para acompanhamento de KPIs operacionais.
+Consulta e registro de informações em Microsoft SQL Server.
+Apoio ao planejamento de entregas, controle de insumos e organização de demandas do laboratório.
+Análise de falhas técnicas e documentação de informações para suporte à tomada de decisão.
+Tecnologias: SQL Server, Power BI, Zendesk, Kanban, KPIs
+
+Supervisor de Manutenção Eletrônica | Nexti Desenvolvimento de Sistemas
+Supervisão de equipe técnica responsável por manutenção, triagem, reparo e suporte de equipamentos, com foco em produtividade, qualidade, SLAs e melhoria contínua.
+Principais resultados:
+Estruturei processos operacionais para controle de reparos, estoque, prazos e produtividade.
+Acompanhei indicadores de SLA, tempo de envio, recebimento e resolução de chamados.
+Participei de reuniões com Produto e Tecnologia, contribuindo com análises técnicas e identificação de melhorias no produto.
+Utilizei Jira/Kanban para acompanhamento de demandas, bugs e melhorias.
+Treinei colaboradores e apoiei o crescimento do setor técnico.
+Destaque: Participei da estruturação e expansão do setor técnico, apoiando a criação de processos, padronização de atividades e treinamento da equipe.
+Tecnologias: SQL Server, Looker Studio, Postman, Jira, Octadesk, MIRO, MQTT, ERP
+
+
+
+### 🧠 Tech Stack
+
+Databricks
+Azure Data Factory
+SQL Server | MySQL
+ETL & Data Pipelines
+
+#### 🔹 Ferramentas e Tecnologias
+
+Data Analysis & BI
+Power BI
+Matplotlib | Plotly
+Jupyter Notebook
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🗄️ [MySql-Vasques](https://github.com/Diogovasques1995/MySql-Vasques)
+- 📊 [Analise-Dados-SQL](https://github.com/Diogovasques1995/Analise-Dados-SQL)
+---
+
+### 🌍 Vamos nos conectar?
+
+🔗 [LinkedIn](https://www.linkedin.com/in/diogo-vasques-ba37b013a/)

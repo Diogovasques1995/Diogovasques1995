@@ -63,7 +63,7 @@ Jupyter Notebook
 ### 📌 Projetos em Destaque
 
 - 🗄️ [Sql Server](https://github.com/Diogovasques1995/SQL)
-- 📊 [Tuning de Performance]([https://github.com/Diogovasques1995/Analise-Dados-SQL](https://github.com/Diogovasques1995/SQL-Tunning-Performance))
+- 📊 [Tuning de Performance](https://github.com/Diogovasques1995/SQL-Tunning-Performance)
 ---
 
 ### 🌍 Vamos nos conectar?

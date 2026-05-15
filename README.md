@@ -22,7 +22,8 @@ Técnico em Eletrônica em Migração para área de dados
 
 ### Experiencia em Dados
 
-Técnico Eletrônico | Indicadores, SQL Server e Power Bi
+### Técnico Eletrônico | Indicadores, SQL Server e Power Bi
+
 Atuação na manutenção de dispositivos computadorizados, equipamentos de informática e placas eletrônicas, com apoio ao controle operacional por meio de indicadores, registros em banco de dados e dashboards.
 Principais atividades:
 Criação de dashboards em Power BI para acompanhamento de KPIs operacionais.
@@ -31,7 +32,8 @@ Apoio ao planejamento de entregas, controle de insumos e organização de demand
 Análise de falhas técnicas e documentação de informações para suporte à tomada de decisão.
 Tecnologias: SQL Server, Power BI, Zendesk, Kanban, KPIs
 
-Supervisor de Manutenção Eletrônica | Nexti Desenvolvimento de Sistemas
+### Supervisor de Manutenção Eletrônica | Nexti Desenvolvimento de Sistemas
+
 Supervisão de equipe técnica responsável por manutenção, triagem, reparo e suporte de equipamentos, com foco em produtividade, qualidade, SLAs e melhoria contínua.
 Principais resultados:
 Estruturei processos operacionais para controle de reparos, estoque, prazos e produtividade.
@@ -46,17 +48,19 @@ Tecnologias: SQL Server, Looker Studio, Postman, Jira, Octadesk, MIRO, MQTT, ERP
 
 ### 🧠 Tech Stack
 
-Databricks
-Azure Data Factory
-SQL Server | MySQL
-ETL & Data Pipelines
+- SQL Server
+- ETL & Data Pipelines
+- PostGree
+- Azure Data Fabric
+- Databricks
 
 #### 🔹 Ferramentas e Tecnologias
 
-Data Analysis & BI
-Power BI
-Matplotlib | Plotly
-Jupyter Notebook
+- Data Analysis & BI
+- Matplotlib
+- Python
+- Plotly
+  
 
 ---
 

@@ -16,7 +16,7 @@ Técnico em Eletrônica em Migração para área de dados
 - Analise de Dados, ETL, Normalização
 - Ferramentas de Dataviz, Power Bi, Looker Studio e Tableau
 
-💡 Minha missão: **Conseguir ingressar na área de dados**
+💡 Minha missão: **Otmizar Bancos de dados, gerar insights valiosos e extração de dados de qualidade**
 
 ---
 

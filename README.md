@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=600&lines=DBA+Data+Analyst+PowerBi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=600&lines=DBA+|+Data+Analyst+|+PowerBi)](https://git.io/typing-svg)
 
 ## 🚀 Diogo Vasques
 

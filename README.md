@@ -68,8 +68,8 @@ Tecnologias: SQL Server, Looker Studio, Postman, Jira, Octadesk, MIRO, MQTT, ERP
 
 - 🗄️ [Sql Server](https://github.com/Diogovasques1995/SQL)
 - 🗄️ [Tuning de Performance](https://github.com/Diogovasques1995/SQL-Tunning-Performance)
-- 🗄️ [PostgreSSQL](https://github.com/Diogovasques1995/PL-SQL-Postgree)
-- 🗄️ [Power_BI_&_ETL](https://github.com/Diogovasques1995/Power-Bi-ETL/blob/main/README.md)
+- 🗄️ [PostgreSQL](https://github.com/Diogovasques1995/PL-SQL-Postgree)
+- 🗄️ [Power BI & ETL](https://github.com/Diogovasques1995/Power-Bi-ETL/blob/main/README.md)
 ---
 
 ### 🌍 Vamos nos conectar?

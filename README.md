@@ -48,7 +48,7 @@ Tecnologias: SQL Server, Looker Studio, Postman, Jira, Octadesk, MIRO, MQTT, ERP
 
 - SQL Server
 - ETL & Data Pipelines
-- PostGree
+- PostGreSQL
 - Azure Data Fabric
 - Databricks
 

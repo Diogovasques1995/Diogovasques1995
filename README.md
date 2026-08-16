@@ -28,7 +28,7 @@ anomalias nos dados coletados.
 ● Aplicar Kanban (Notion/Monday) para controle de demandas, gerando métricas de time que embasam priorização de 
 atividades. 
 
-### Supervisor de Manutenção Eletrônica | Nexti Desenvolvimento de Sistemas
+### Supervisor de Operações | Nexti Desenvolvimento de Sistemas
 
 ● Reduzi o tempo de resolução de chamados e aumentei a aderência ao SLA estruturando processos de reparo, estoque e 
 prazos com base em dados (SQL Server + Looker Studio). 

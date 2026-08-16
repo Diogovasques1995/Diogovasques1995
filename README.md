@@ -20,27 +20,23 @@ Técnico em Eletrônica em Migração para área de dados
 
 ### Experiencia em Dados
 
-### Técnico Eletrônico | Indicadores, SQL Server e Power Bi
+### Analista de Operações | Indicadores, SQL Server e Power Bi
 
-Atuação na manutenção de dispositivos computadorizados, equipamentos de informática e placas eletrônicas, com apoio ao controle operacional por meio de indicadores, registros em banco de dados e dashboards.
-Principais atividades:
-Criação de dashboards em Power BI para acompanhamento de KPIs operacionais.
-Consulta e registro de informações em Microsoft SQL Server.
-Apoio ao planejamento de entregas, controle de insumos e organização de demandas do laboratório.
-Análise de falhas técnicas e documentação de informações para suporte à tomada de decisão.
-Tecnologias: SQL Server, Power BI, Zendesk, Kanban, KPIs
+● Monitoro estações meteorológicas e dispositivos de telemetria via Grafana, reduzindo o tempo de identificação de falhas e 
+anomalias nos dados coletados. 
+● Extração de Relatórios através com Bigquery no GCP, auxílio ao time de dados para tomada de decisão 
+● Aplicar Kanban (Notion/Monday) para controle de demandas, gerando métricas de time que embasam priorização de 
+atividades. 
 
 ### Supervisor de Manutenção Eletrônica | Nexti Desenvolvimento de Sistemas
 
-Supervisão de equipe técnica responsável por manutenção, triagem, reparo e suporte de equipamentos, com foco em produtividade, qualidade, SLAs e melhoria contínua.
-Principais resultados:
-Estruturei processos operacionais para controle de reparos, estoque, prazos e produtividade.
-Acompanhei indicadores de SLA, tempo de envio, recebimento e resolução de chamados.
-Participei de reuniões com Produto e Tecnologia, contribuindo com análises técnicas e identificação de melhorias no produto.
-Utilizei Jira/Kanban para acompanhamento de demandas, bugs e melhorias.
-Treinei colaboradores e apoiei o crescimento do setor técnico.
-Destaque: Participei da estruturação e expansão do setor técnico, apoiando a criação de processos, padronização de atividades e treinamento da equipe.
-Tecnologias: SQL Server, Looker Studio, Postman, Jira, Octadesk, MIRO, MQTT, ERP
+● Reduzi o tempo de resolução de chamados e aumentei a aderência ao SLA estruturando processos de reparo, estoque e 
+prazos com base em dados (SQL Server + Looker Studio). 
+● Atuação em produção com update, insert e scripts em MySQL e PostgreSQL, extração de dados para relatórios através da 
+otimização de queries, identificação de falhas em produtos e sistema através de análise de dados utilizando o banco de 
+dados. 
+● Entreguei relatórios semanais de SLA e volume de chamados à liderança, subsidiando decisões estratégicas. 
+● Geri backlog técnico no Jira/Kanban, atuando junto a Produto e Tecnologia na priorização de bugs e melhorias. 
 
 
 
